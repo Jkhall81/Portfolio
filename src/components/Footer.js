@@ -33,7 +33,9 @@ const Footer = () => {
                     <FaFacebook size={30} style={{ color: "#fff",marginRight: "1rem" }} />
                     </a>
                     <FaTwitter size={30} style={{ color: "#fff",marginRight: "1rem" }} />
+                    <a href="www.linkedin.com/in/jason-hall-650964242">
                     <FaLinkedin size={30} style={{ color: "#fff",marginRight: "1rem" }} />
+                    </a>
                 </div>
             </div>
         </div>
