@@ -7,18 +7,18 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Netflix Clone",
         text: "A Netflix Clone created with React.",
-        view: "url.com"
+        view: "https://melodious-lollipop-6e6ded.netlify.app/"
     },
     {
         imgsrc: pro2,
         title: "Gmail Clone",
-        text: "A Gmail Clone created with React.",
+        text: "Project not yet completed",
         view: "url.com"
     },
     {
         imgsrc: pro3,
         title: "Amazon Clone",
-        text: "An Amazon Clone created with React.",
+        text: "Project not yet completed",
         view: "url.com"
     },
 ];
